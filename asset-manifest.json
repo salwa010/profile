@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.27aa9de3.css",
+    "main.js": "/profile/static/js/main.fb6b51b0.js",
+    "static/media/me.png": "/profile/static/media/me.e2eeb146d035e14c6127.png",
+    "static/media/salwa cv.pdf": "/profile/static/media/salwa cv.9e1ceaf6bd4780649acb.pdf",
+    "static/media/a.jpg": "/profile/static/media/a.dd3f9bbfa76bc07b31c2.jpg",
+    "static/media/net.jpg": "/profile/static/media/net.bb6c166c802e9300634f.jpg",
+    "static/media/todoo.jpg": "/profile/static/media/todoo.60578fc15fd978aee7b4.jpg",
+    "index.html": "/profile/index.html",
+    "main.27aa9de3.css.map": "/profile/static/css/main.27aa9de3.css.map",
+    "main.fb6b51b0.js.map": "/profile/static/js/main.fb6b51b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27aa9de3.css",
+    "static/js/main.fb6b51b0.js"
+  ]
+}
